@@ -13,7 +13,6 @@ public class MyFirstProgram {
   }
 
   public static void hello(String somebody) {
-
     System.out.println("Hello, " + somebody + "!");
   }
 
