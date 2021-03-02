@@ -1,4 +1,4 @@
-package ru.stqa.pft.sandbox;
+package lesson2;
 
 
 public class MySecondProgram {
