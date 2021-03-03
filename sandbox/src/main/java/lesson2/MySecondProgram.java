@@ -3,12 +3,9 @@ package lesson2;
 
 public class MySecondProgram {
   public static void main(String[] args) {
-    Point s = new Point(-1, 3);
-    Point r = new Point(6, 2);
-    System.out.println("расстояния между точками = " + distance(s, r));
-  }
+    Point p1 = new Point(-1, 3);
+    Point p2 = new Point(6, 2);
+    System.out.println("расстояния между точками = " + Point.distance(p1, p2));
 
-  public static double distance(Point p1, Point p2){
-    return Math.sqrt((Math.pow((p1.x - p2.x), 2)) + (Math.pow((p1.y - p2.y), 2)));
   }
 }
