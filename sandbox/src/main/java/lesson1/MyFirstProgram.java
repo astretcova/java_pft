@@ -7,7 +7,7 @@ public class MyFirstProgram {
     hello("user");
     hello("Marina");
 
-    Sqeare s = new Sqeare(3);
+    Square s = new Square(3);
     System.out.println("area square " + s.a + " =  " + s.areaSquare());
 
     Rectangle r = new Rectangle(2,4);
