@@ -1,2 +1,10 @@
-ru/stqa/pft/addressbook/GroupCreationTests.java
- ru.stqa.pft.addressbook.GroupCreationTests
+hw4/GroupData.java
+ hw4.GroupData
+hw4/CreationTest.java
+ hw4.CreationTest
+hw4/CreationAddressBook.java
+ hw4.CreationAddressBook
+hw4/MainData.java
+ hw4.MainData
+hw4/SecondData.java
+ hw4.SecondData
